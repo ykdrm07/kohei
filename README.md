@@ -9,5 +9,5 @@ kohei0615kubo
 
 # member
 yamasaki
-kawaura
+kawamura
 ------------------
