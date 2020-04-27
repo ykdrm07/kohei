@@ -12,3 +12,6 @@ kohei0615kubo
 #見出し
 ------------------
 organization
+test2folder
+
+This is the text I wrote for practice
